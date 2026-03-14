@@ -1,0 +1,5 @@
+{
+  "name": "DualTrack Schedule",
+  "description": "A lightweight schedule management app featuring fixed tasks (Study, Life, Work) and temporary tasks with a unified daily view.",
+  "requestFramePermissions": []
+}
